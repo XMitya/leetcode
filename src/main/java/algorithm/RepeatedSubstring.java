@@ -1,5 +1,6 @@
 package algorithm;
 
+//https://leetcode.com/problems/repeated-substring-pattern/
 public class RepeatedSubstring {
 
     public static void main(String[] args) {

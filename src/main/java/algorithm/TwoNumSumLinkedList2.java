@@ -1,7 +1,6 @@
 package algorithm;
 
-import java.math.BigInteger;
-
+// https://leetcode.com/problems/add-two-numbers/editorial/
 public class TwoNumSumLinkedList2 {
 
     public static class ListNode {
